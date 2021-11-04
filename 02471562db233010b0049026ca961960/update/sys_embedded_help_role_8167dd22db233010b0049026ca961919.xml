@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="service_desk" name="service_desk">4567dd22db233010b0049026ca961914</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-03 23:58:18</sys_created_on>
+        <sys_id>8167dd22db233010b0049026ca961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4567dd22db233010b0049026ca961914</sys_name>
+        <sys_package display_value="Caller Interaction" source="02471562db233010b0049026ca961960">02471562db233010b0049026ca961960</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Caller Interaction">02471562db233010b0049026ca961960</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8167dd22db233010b0049026ca961919</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-03 23:58:18</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
